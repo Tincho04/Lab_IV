@@ -1,3 +1,4 @@
+import { analyzeAndValidateNgModules } from '@angular/compiler';
 import { stringify } from '@angular/compiler/src/util';
 import { Component } from '@angular/core';
 
